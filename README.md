@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=pratixx&layout=compact&theme=github_dark
+[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratixx&layout=compact&theme=github_dark)
